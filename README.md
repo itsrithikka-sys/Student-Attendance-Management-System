@@ -122,7 +122,7 @@ Open a terminal inside the "src" folder and run:
 
 
 
-javac StudentAttendanceManager.java
+javac StudentAttendanceManagement.java
 
 
 
@@ -130,7 +130,7 @@ javac StudentAttendanceManager.java
 
 
 
-java StudentAttendanceManager
+java StudentAttendanceManagement
 
 #### 
 
@@ -144,7 +144,7 @@ Student-Attendance-Management-System/
 
 ├── src/
 
-│   └── StudentAttendanceManager.java
+│   └── StudentAttendanceManagement.java
 
 │
 
