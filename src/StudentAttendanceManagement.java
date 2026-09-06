@@ -98,8 +98,7 @@ public class StudentAttendanceManagement extends JFrame {
         buttonPanel.setBackground(new Color(245, 240, 255));
 
         JButton addBtn = createButton("➕ Add");
-        JButton updateBtn = createButton(" Update");
-        JButton deleteBtn = createButton("🗑 Delete");
+        JButton updateBtn = createButton("✏ Update");
         JButton saveBtn = createButton("💾 Save");
         JButton loadBtn = createButton("📂 Load");
         JButton aboutBtn = createButton("💜 About");
